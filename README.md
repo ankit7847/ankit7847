@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Ankit Rathore
 
-<!--
-**ankit7847/ankit7847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Aspiring Software Developer
+💻 Learning Java, DSA & Full Stack Web Development
+🚀 Currently building real-world projects to improve problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+* Java
+* HTML, CSS, JavaScript
+* Node.js, Express
+* MongoDB
+* React (Learning)
+* Data Structures & Algorithms (Learning)
+
+---
+
+## 📌 Projects
+
+🔹 Wanderlust – Airbnb inspired travel listing web app
+🔹 Zerodha Clone – Stock trading UI platform
+🔹 Java Daily Practice – Consistent Java problem solving repository
+
+---
+
+## 📈 Current Focus
+
+* Improving DSA
+* Backend Development
+* Writing clean & readable code
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ankit-rathore-694858267/
