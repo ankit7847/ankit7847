@@ -1,12 +1,12 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -19,11 +19,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ankit7847
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3   # ✅ FIXED (v3 latest for pages)
+
         with:
           path: dist
 
@@ -33,4 +33,4 @@ jobs:
 
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4   # ✅ latest
