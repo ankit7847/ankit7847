@@ -67,19 +67,30 @@ Consistent DSA problem-solving repository in Java
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Currently Working On
 
-* 📚 Mastering **Data Structures & Algorithms**
-* ⚙️ Strengthening **Backend Development (Node.js & Java)**
-* ✨ Writing **clean, maintainable code**
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/ankit-rathore-694858267/
+* 🔭 Building full-stack projects using **Node.js & MongoDB**
+* 🌱 Learning **Data Structures & Algorithms in Java**
+* ⚛️ Exploring **React for frontend development**
+* 💡 Preparing for **placements (DSA + Core subjects)**
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t work hard.”*
+## 📊 Contribution Graph (Snake Animation)
+
+![Snake animation](https://github.com/ankit7847/ankit7847/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ankit7847\&label=Profile%20views\&color=0e75b6\&style=for-the-badge)
+
+---
+
+## 💼 Portfolio Highlights
+
+* 💻 Built real-world projects like **Wanderlust & Zerodha Clone**
+* 📈 Consistent GitHub activity with daily coding practice
+* 🧠 Strong focus on **problem-solving & backend development**
+* 🚀 Actively improving skills for product-based companies
