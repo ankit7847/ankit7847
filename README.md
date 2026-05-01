@@ -45,7 +45,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-
 ---
 
 ## 📌 Projects
@@ -63,7 +62,11 @@ Consistent DSA problem-solving repository in Java
 
 ## 📈 GitHub Stats
 
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit7847\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankit7847\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7847\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -78,7 +81,7 @@ Consistent DSA problem-solving repository in Java
 
 ## 📊 Contribution Graph (Snake Animation)
 
-![Snake animation](https://github.com/ankit7847/ankit7847/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://ankit7847.github.io/ankit7847/snake.svg)
 
 ---
 
@@ -94,3 +97,7 @@ Consistent DSA problem-solving repository in Java
 * 📈 Consistent GitHub activity with daily coding practice
 * 🧠 Strong focus on **problem-solving & backend development**
 * 🚀 Actively improving skills for product-based companies
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
