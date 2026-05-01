@@ -63,9 +63,12 @@ Consistent DSA problem-solving repository in Java
 
 ## 📈 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit7847\&show_icons=true\&theme=tokyonight)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit7847\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7847\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankit7847\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7847\&layout=compact\&theme=tokyonight\&hide_border=true)
+
 
 ---
 
