@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankit Rathore
 
 🎓 B.Tech Student | 💻 Aspiring Software Developer
-🚀 Passionate about building real-world applications & improving problem-solving skills
+🚀 Passionate about building real-world applications & improving problem-solving skill
 
 ---
 
